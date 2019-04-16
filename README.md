@@ -4,7 +4,7 @@
     https://yarnpkg.com/en/docs/install#windows-stable
 ```bash
 > git clone https://github.com/ignasave/QuickChallengeAvalithNew
-> cd QuickChallengeAvalith
+> cd QuickChallengeAvalithNew
 > yarn
 ```
 
